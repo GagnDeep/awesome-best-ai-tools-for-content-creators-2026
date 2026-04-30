@@ -433,6 +433,18 @@ Gap note: despite broad research, this remains the weakest category. I found few
 
 ---
 
+#### [Cyber Collector](https://t.me/cybercollectorbot)
+> **Description:** Cyber Collector is a free Telegram bot for downloading videos from TikTok (no watermark), Instagram Reels and Stories, YouTube and Shorts, X/Twitter, and Facebook. No signup, no account, no ads — send a video link to the bot and get the file. Useful for creators who need to collect reference clips or archive their own content from social platforms. Available at t.me/cybercollectorbot with a companion website at cybercollector.hitkey.io.
+
+- **Website:** [cybercollector.hitkey.io](https://cybercollector.hitkey.io)
+- **Telegram:** [t.me/cybercollectorbot](https://t.me/cybercollectorbot)
+- **Stars:** N/A (Telegram bot)
+- **License:** Free to use
+- **Category:** video-download, social-media, telegram-bot
+- **Best for:** creators who need to download reference clips or archive content from TikTok, Instagram, YouTube, and X/Twitter
+
+---
+
 ## FAQ
 
 ### What are the best open source AI tools for content creators in 2026?
