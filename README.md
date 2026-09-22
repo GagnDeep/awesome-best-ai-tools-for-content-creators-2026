@@ -433,6 +433,19 @@ Gap note: despite broad research, this remains the weakest category. I found few
 
 ---
 
+#### [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)
+> **Description:** OrkasVideoStudio is an MIT-licensed, local-first TypeScript CLI and MCP toolkit for coding agents to compose, edit, optionally generate, and automatically assemble videos from editable plan.json timelines. Compose, edit, and transcription form the zero-key trunk; provider-backed generation is optional. The working installation path is from source while npm packages remain pending. GitHub shows 489 stars and active public maintenance through 2026-09-21.
+
+- **GitHub:** [github.com/Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)
+- **Stars:** 489 ⭐
+- **Language:** TypeScript
+- **License:** MIT
+- **Last Commit:** 2026-09-21
+- **Category:** video-editing, agent-toolkit, local-first
+- **Best for:** creators using coding agents to build reviewable, rerenderable video workflows
+
+---
+
 ## FAQ
 
 ### What are the best open source AI tools for content creators in 2026?
